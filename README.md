@@ -1,5 +1,5 @@
 
-# D-D-Helper-Bot
+# D&amp;D-Helper-Bot
 
 A Discord bot for retrieving basic D&amp;D information and storing worldbuilding info.
 
