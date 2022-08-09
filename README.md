@@ -22,5 +22,4 @@ https://discordpy.readthedocs.io/en/stable/index.html
 API site: https://api.open5e.com/  
 Main site: https://open5e.com/  
   
-
-Please note that this bot is being developed on replit.com, so pulling the code and running it on your system may not work. Although I'm not as experienced with Python as I am with Java, I hope to make this bot as efficient as possible and will try to update it regularly (at least, until all of the essential commands have been fully implemented).
+Please note that this bot is being developed on replit.com, so pulling the code and running it on your system may not work. 
